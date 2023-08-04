@@ -1,0 +1,200 @@
+D:\Swin\COS20007\Space Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.AssemblyReference.cache
+D:\Swin\COS20007\Space Shooter\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.Properties.Resources.resources
+D:\Swin\COS20007\Space Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.GenerateResource.cache
+D:\Swin\COS20007\Space Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swin\COS20007\Space Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfoInputs.cache
+D:\Swin\COS20007\Space Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfo.cs
+D:\Swin\COS20007\Space Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\Swin\COS20007\Space Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.exe
+D:\Swin\COS20007\Space Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.deps.json
+D:\Swin\COS20007\Space Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.runtimeconfig.json
+D:\Swin\COS20007\Space Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.dll
+D:\Swin\COS20007\Space Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.pdb
+D:\Swin\COS20007\Space Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.dll
+D:\Swin\COS20007\Space Shooter\Space Shooter\obj\Debug\net6.0-windows\refint\SpaceShooter.dll
+D:\Swin\COS20007\Space Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.pdb
+D:\Swin\COS20007\Space Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.genruntimeconfig.cache
+D:\Swin\COS20007\Space Shooter\Space Shooter\obj\Debug\net6.0-windows\ref\SpaceShooter.dll
+D:\Swin\COS20007\Space Shooter\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.SpaceShooter.resources
+D:\Swin\COS20007\Space Shooter\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.GameOver.resources
+D:\Swin\COS20007\Space Shooter\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.MainMenu.resources
+D:\Swin\COS20007\Space Shooter_HD\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.exe
+D:\Swin\COS20007\Space Shooter_HD\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.deps.json
+D:\Swin\COS20007\Space Shooter_HD\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.runtimeconfig.json
+D:\Swin\COS20007\Space Shooter_HD\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.dll
+D:\Swin\COS20007\Space Shooter_HD\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.pdb
+D:\Swin\COS20007\Space Shooter_HD\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.AssemblyReference.cache
+D:\Swin\COS20007\Space Shooter_HD\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.GameOver.resources
+D:\Swin\COS20007\Space Shooter_HD\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.MainMenu.resources
+D:\Swin\COS20007\Space Shooter_HD\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.Properties.Resources.resources
+D:\Swin\COS20007\Space Shooter_HD\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.SpaceShooter.resources
+D:\Swin\COS20007\Space Shooter_HD\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.GenerateResource.cache
+D:\Swin\COS20007\Space Shooter_HD\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swin\COS20007\Space Shooter_HD\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfoInputs.cache
+D:\Swin\COS20007\Space Shooter_HD\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfo.cs
+D:\Swin\COS20007\Space Shooter_HD\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\Swin\COS20007\Space Shooter_HD\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.dll
+D:\Swin\COS20007\Space Shooter_HD\Space Shooter\obj\Debug\net6.0-windows\refint\SpaceShooter.dll
+D:\Swin\COS20007\Space Shooter_HD\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.pdb
+D:\Swin\COS20007\Space Shooter_HD\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.genruntimeconfig.cache
+D:\Swin\COS20007\Space Shooter_HD\Space Shooter\obj\Debug\net6.0-windows\ref\SpaceShooter.dll
+D:\Swin\COS20007\Space Shooter_first\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.exe
+D:\Swin\COS20007\Space Shooter_first\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.deps.json
+D:\Swin\COS20007\Space Shooter_first\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.runtimeconfig.json
+D:\Swin\COS20007\Space Shooter_first\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.dll
+D:\Swin\COS20007\Space Shooter_first\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.pdb
+D:\Swin\COS20007\Space Shooter_first\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.AssemblyReference.cache
+D:\Swin\COS20007\Space Shooter_first\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.GameOver.resources
+D:\Swin\COS20007\Space Shooter_first\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.MainMenu.resources
+D:\Swin\COS20007\Space Shooter_first\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.Properties.Resources.resources
+D:\Swin\COS20007\Space Shooter_first\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.SpaceShooter.resources
+D:\Swin\COS20007\Space Shooter_first\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.GenerateResource.cache
+D:\Swin\COS20007\Space Shooter_first\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swin\COS20007\Space Shooter_first\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfoInputs.cache
+D:\Swin\COS20007\Space Shooter_first\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfo.cs
+D:\Swin\COS20007\Space Shooter_first\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\Swin\COS20007\Space Shooter_first\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.dll
+D:\Swin\COS20007\Space Shooter_first\Space Shooter\obj\Debug\net6.0-windows\refint\SpaceShooter.dll
+D:\Swin\COS20007\Space Shooter_first\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.pdb
+D:\Swin\COS20007\Space Shooter_first\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.genruntimeconfig.cache
+D:\Swin\COS20007\Space Shooter_first\Space Shooter\obj\Debug\net6.0-windows\ref\SpaceShooter.dll
+D:\Swin\COS20007\Space Shooter_first_HD\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.exe
+D:\Swin\COS20007\Space Shooter_first_HD\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.deps.json
+D:\Swin\COS20007\Space Shooter_first_HD\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.runtimeconfig.json
+D:\Swin\COS20007\Space Shooter_first_HD\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.dll
+D:\Swin\COS20007\Space Shooter_first_HD\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.pdb
+D:\Swin\COS20007\Space Shooter_first_HD\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.AssemblyReference.cache
+D:\Swin\COS20007\Space Shooter_first_HD\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.GameOver.resources
+D:\Swin\COS20007\Space Shooter_first_HD\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.MainMenu.resources
+D:\Swin\COS20007\Space Shooter_first_HD\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.Properties.Resources.resources
+D:\Swin\COS20007\Space Shooter_first_HD\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.SpaceShooter.resources
+D:\Swin\COS20007\Space Shooter_first_HD\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.GenerateResource.cache
+D:\Swin\COS20007\Space Shooter_first_HD\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swin\COS20007\Space Shooter_first_HD\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfoInputs.cache
+D:\Swin\COS20007\Space Shooter_first_HD\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfo.cs
+D:\Swin\COS20007\Space Shooter_first_HD\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\Swin\COS20007\Space Shooter_first_HD\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.dll
+D:\Swin\COS20007\Space Shooter_first_HD\Space Shooter\obj\Debug\net6.0-windows\refint\SpaceShooter.dll
+D:\Swin\COS20007\Space Shooter_first_HD\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.pdb
+D:\Swin\COS20007\Space Shooter_first_HD\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.genruntimeconfig.cache
+D:\Swin\COS20007\Space Shooter_first_HD\Space Shooter\obj\Debug\net6.0-windows\ref\SpaceShooter.dll
+D:\Swin\COS20007\HD_test_sound\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.exe
+D:\Swin\COS20007\HD_test_sound\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.deps.json
+D:\Swin\COS20007\HD_test_sound\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.runtimeconfig.json
+D:\Swin\COS20007\HD_test_sound\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.dll
+D:\Swin\COS20007\HD_test_sound\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.pdb
+D:\Swin\COS20007\HD_test_sound\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.AssemblyReference.cache
+D:\Swin\COS20007\HD_test_sound\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.GameOver.resources
+D:\Swin\COS20007\HD_test_sound\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.MainMenu.resources
+D:\Swin\COS20007\HD_test_sound\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.Properties.Resources.resources
+D:\Swin\COS20007\HD_test_sound\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.SpaceShooter.resources
+D:\Swin\COS20007\HD_test_sound\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.GenerateResource.cache
+D:\Swin\COS20007\HD_test_sound\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swin\COS20007\HD_test_sound\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfoInputs.cache
+D:\Swin\COS20007\HD_test_sound\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfo.cs
+D:\Swin\COS20007\HD_test_sound\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\Swin\COS20007\HD_test_sound\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.dll
+D:\Swin\COS20007\HD_test_sound\Space Shooter\obj\Debug\net6.0-windows\refint\SpaceShooter.dll
+D:\Swin\COS20007\HD_test_sound\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.pdb
+D:\Swin\COS20007\HD_test_sound\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.genruntimeconfig.cache
+D:\Swin\COS20007\HD_test_sound\Space Shooter\obj\Debug\net6.0-windows\ref\SpaceShooter.dll
+D:\Swin\COS20007\HD_test_sound - Copy\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.AssemblyReference.cache
+D:\Swin\COS20007\HD_test_sound - Copy\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.GameOver.resources
+D:\Swin\COS20007\HD_test_sound - Copy\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.MainMenu.resources
+D:\Swin\COS20007\HD_test_sound - Copy\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.Properties.Resources.resources
+D:\Swin\COS20007\HD_test_sound - Copy\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.SpaceShooter.resources
+D:\Swin\COS20007\HD_test_sound - Copy\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.GenerateResource.cache
+D:\Swin\COS20007\HD_test_sound - Copy\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swin\COS20007\HD_test_sound - Copy\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfoInputs.cache
+D:\Swin\COS20007\HD_test_sound - Copy\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfo.cs
+D:\Swin\COS20007\HD_test_sound - Copy\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\Swin\COS20007\HD_test_sound - Copy\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.dll
+D:\Swin\COS20007\HD_test_sound - Copy\Space Shooter\obj\Debug\net6.0-windows\refint\SpaceShooter.dll
+D:\Swin\COS20007\HD_test_sound - Copy\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.pdb
+D:\Swin\COS20007\HD_test_sound - Copy\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.exe
+D:\Swin\COS20007\HD_test_sound - Copy\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.deps.json
+D:\Swin\COS20007\HD_test_sound - Copy\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.runtimeconfig.json
+D:\Swin\COS20007\HD_test_sound - Copy\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.dll
+D:\Swin\COS20007\HD_test_sound - Copy\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.pdb
+D:\Swin\COS20007\HD_test_sound - Copy\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.genruntimeconfig.cache
+D:\Swin\COS20007\HD_test_sound - Copy\Space Shooter\obj\Debug\net6.0-windows\ref\SpaceShooter.dll
+D:\Swin\COS20007\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.exe
+D:\Swin\COS20007\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.deps.json
+D:\Swin\COS20007\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.runtimeconfig.json
+D:\Swin\COS20007\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.dll
+D:\Swin\COS20007\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.pdb
+D:\Swin\COS20007\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.AssemblyReference.cache
+D:\Swin\COS20007\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.GameOver.resources
+D:\Swin\COS20007\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.MainMenu.resources
+D:\Swin\COS20007\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.Properties.Resources.resources
+D:\Swin\COS20007\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.SpaceShooter.resources
+D:\Swin\COS20007\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.GenerateResource.cache
+D:\Swin\COS20007\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swin\COS20007\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfoInputs.cache
+D:\Swin\COS20007\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfo.cs
+D:\Swin\COS20007\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\Swin\COS20007\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.dll
+D:\Swin\COS20007\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\refint\SpaceShooter.dll
+D:\Swin\COS20007\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.pdb
+D:\Swin\COS20007\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.genruntimeconfig.cache
+D:\Swin\COS20007\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\ref\SpaceShooter.dll
+C:\Users\Thien Thinh Tran\Downloads\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.exe
+C:\Users\Thien Thinh Tran\Downloads\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.deps.json
+C:\Users\Thien Thinh Tran\Downloads\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.runtimeconfig.json
+C:\Users\Thien Thinh Tran\Downloads\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.dll
+C:\Users\Thien Thinh Tran\Downloads\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.pdb
+C:\Users\Thien Thinh Tran\Downloads\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.AssemblyReference.cache
+C:\Users\Thien Thinh Tran\Downloads\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.GameOver.resources
+C:\Users\Thien Thinh Tran\Downloads\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.MainMenu.resources
+C:\Users\Thien Thinh Tran\Downloads\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.Properties.Resources.resources
+C:\Users\Thien Thinh Tran\Downloads\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.SpaceShooter.resources
+C:\Users\Thien Thinh Tran\Downloads\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.GenerateResource.cache
+C:\Users\Thien Thinh Tran\Downloads\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thien Thinh Tran\Downloads\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfoInputs.cache
+C:\Users\Thien Thinh Tran\Downloads\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfo.cs
+C:\Users\Thien Thinh Tran\Downloads\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.CoreCompileInputs.cache
+C:\Users\Thien Thinh Tran\Downloads\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.dll
+C:\Users\Thien Thinh Tran\Downloads\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\refint\SpaceShooter.dll
+C:\Users\Thien Thinh Tran\Downloads\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.pdb
+C:\Users\Thien Thinh Tran\Downloads\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.genruntimeconfig.cache
+C:\Users\Thien Thinh Tran\Downloads\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\ref\SpaceShooter.dll
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\6.6HD\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.exe
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\6.6HD\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.deps.json
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\6.6HD\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.runtimeconfig.json
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\6.6HD\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.dll
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\6.6HD\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.pdb
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.AssemblyReference.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.GameOver.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.MainMenu.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.Properties.Resources.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.SpaceShooter.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.GenerateResource.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfoInputs.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfo.cs
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.CoreCompileInputs.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.dll
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\refint\SpaceShooter.dll
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.pdb
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.genruntimeconfig.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\ref\SpaceShooter.dll
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.exe
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.deps.json
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.runtimeconfig.json
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.dll
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\SpaceShooter.pdb
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.AssemblyReference.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.GameOver.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.MainMenu.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.Properties.Resources.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\Space_Shooter.SpaceShooter.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.GenerateResource.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfoInputs.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.AssemblyInfo.cs
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.csproj.CoreCompileInputs.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.dll
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\refint\SpaceShooter.dll
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.pdb
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\SpaceShooter.genruntimeconfig.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\ref\SpaceShooter.dll

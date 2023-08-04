@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "v7XYkgxdVg+K6jQKJkC74zay3WJMd0U9RMrSCRqd10bBoUvWnAfl55w3TUoyfxJD+ABmyX9qaaGHIk5JmnMKow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edgcu\\Desktop\\SUT\\HCM CAMPUS\\2. COS20007\\Assignments\\D & HD\\6.5HD - HD Level Custom Program\\6.5HD - GalacticGuardian - Sourcecode\\GalacticGuardian\\GalacticGuardian.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edgcu\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\edgcu\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\edgcu\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

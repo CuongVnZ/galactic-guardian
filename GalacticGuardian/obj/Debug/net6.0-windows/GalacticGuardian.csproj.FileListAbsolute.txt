@@ -1,0 +1,106 @@
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\GalacticGuardian.exe
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\GalacticGuardian.deps.json
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\GalacticGuardian.runtimeconfig.json
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\GalacticGuardian.dll
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\bin\Debug\net6.0-windows\GalacticGuardian.pdb
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\GalacticGuardian.csproj.AssemblyReference.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\GalacticGuardian.csproj.GenerateResource.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\GalacticGuardian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\GalacticGuardian.AssemblyInfoInputs.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\GalacticGuardian.AssemblyInfo.cs
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\GalacticGuardian.csproj.CoreCompileInputs.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\GalacticGuardian.dll
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\refint\GalacticGuardian.dll
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\GalacticGuardian.pdb
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\GalacticGuardian.genruntimeconfig.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\ref\GalacticGuardian.dll
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\Galactic_Guardian.GalacticGuardian.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\Galactic_Guardian.GameOver.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\Galactic_Guardian.MainMenu.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\thinh\6.6HD\final_Space_Shooter\Space Shooter\obj\Debug\net6.0-windows\Galactic_Guardian.Properties.Resources.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\6.4HD\GalacticGuardian - Sourcecode\GalacticGuardian\bin\Debug\net6.0-windows\GalacticGuardian.exe
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\6.4HD\GalacticGuardian - Sourcecode\GalacticGuardian\bin\Debug\net6.0-windows\GalacticGuardian.deps.json
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\6.4HD\GalacticGuardian - Sourcecode\GalacticGuardian\bin\Debug\net6.0-windows\GalacticGuardian.runtimeconfig.json
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\6.4HD\GalacticGuardian - Sourcecode\GalacticGuardian\bin\Debug\net6.0-windows\GalacticGuardian.dll
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\6.4HD\GalacticGuardian - Sourcecode\GalacticGuardian\bin\Debug\net6.0-windows\GalacticGuardian.pdb
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\6.4HD\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.csproj.AssemblyReference.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\6.4HD\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\Galactic_Guardian.GalacticGuardian.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\6.4HD\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\Galactic_Guardian.GameOver.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\6.4HD\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\Galactic_Guardian.MainMenu.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\6.4HD\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\Galactic_Guardian.Properties.Resources.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\6.4HD\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.csproj.GenerateResource.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\6.4HD\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\6.4HD\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.AssemblyInfoInputs.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\6.4HD\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.AssemblyInfo.cs
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\6.4HD\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.csproj.CoreCompileInputs.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\6.4HD\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.dll
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\6.4HD\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\refint\GalacticGuardian.dll
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\6.4HD\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.pdb
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\6.4HD\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.genruntimeconfig.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\6.4HD\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\ref\GalacticGuardian.dll
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.csproj.AssemblyReference.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\Galactic_Guardian.GalacticGuardian.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\Galactic_Guardian.GameOver.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\Galactic_Guardian.MainMenu.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\Galactic_Guardian.Properties.Resources.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.csproj.GenerateResource.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.AssemblyInfoInputs.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.AssemblyInfo.cs
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.csproj.CoreCompileInputs.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.dll
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\refint\GalacticGuardian.dll
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.pdb
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\GalacticGuardian - Sourcecode\GalacticGuardian\bin\Debug\net6.0-windows\GalacticGuardian.exe
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\GalacticGuardian - Sourcecode\GalacticGuardian\bin\Debug\net6.0-windows\GalacticGuardian.deps.json
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\GalacticGuardian - Sourcecode\GalacticGuardian\bin\Debug\net6.0-windows\GalacticGuardian.runtimeconfig.json
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\GalacticGuardian - Sourcecode\GalacticGuardian\bin\Debug\net6.0-windows\GalacticGuardian.dll
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\GalacticGuardian - Sourcecode\GalacticGuardian\bin\Debug\net6.0-windows\GalacticGuardian.pdb
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.genruntimeconfig.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\ref\GalacticGuardian.dll
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\Galactic_Guardian.Instruction.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\Galactic_Guardian.Ranking.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.csproj.AssemblyReference.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\Galactic_Guardian.GalacticGuardian.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\Galactic_Guardian.GameOver.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\Galactic_Guardian.Instruction.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\Galactic_Guardian.MainMenu.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\Galactic_Guardian.Properties.Resources.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\Galactic_Guardian.Ranking.resources
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.csproj.GenerateResource.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.AssemblyInfoInputs.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.AssemblyInfo.cs
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.csproj.CoreCompileInputs.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.dll
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\refint\GalacticGuardian.dll
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.pdb
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\bin\Debug\net6.0-windows\GalacticGuardian.exe
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\bin\Debug\net6.0-windows\GalacticGuardian.deps.json
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\bin\Debug\net6.0-windows\GalacticGuardian.runtimeconfig.json
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\bin\Debug\net6.0-windows\GalacticGuardian.dll
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\bin\Debug\net6.0-windows\GalacticGuardian.pdb
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.genruntimeconfig.cache
+C:\Users\edgcu\Desktop\SUT\HCM Campus\COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\ref\GalacticGuardian.dll
+C:\Users\edgcu\Desktop\SUT\HCM CAMPUS\2. COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\bin\Debug\net6.0-windows\GalacticGuardian.exe
+C:\Users\edgcu\Desktop\SUT\HCM CAMPUS\2. COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\bin\Debug\net6.0-windows\GalacticGuardian.deps.json
+C:\Users\edgcu\Desktop\SUT\HCM CAMPUS\2. COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\bin\Debug\net6.0-windows\GalacticGuardian.runtimeconfig.json
+C:\Users\edgcu\Desktop\SUT\HCM CAMPUS\2. COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\bin\Debug\net6.0-windows\GalacticGuardian.dll
+C:\Users\edgcu\Desktop\SUT\HCM CAMPUS\2. COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\bin\Debug\net6.0-windows\GalacticGuardian.pdb
+C:\Users\edgcu\Desktop\SUT\HCM CAMPUS\2. COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.csproj.AssemblyReference.cache
+C:\Users\edgcu\Desktop\SUT\HCM CAMPUS\2. COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\Galactic_Guardian.GalacticGuardian.resources
+C:\Users\edgcu\Desktop\SUT\HCM CAMPUS\2. COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\Galactic_Guardian.GameOver.resources
+C:\Users\edgcu\Desktop\SUT\HCM CAMPUS\2. COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\Galactic_Guardian.Instruction.resources
+C:\Users\edgcu\Desktop\SUT\HCM CAMPUS\2. COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\Galactic_Guardian.MainMenu.resources
+C:\Users\edgcu\Desktop\SUT\HCM CAMPUS\2. COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\Galactic_Guardian.Properties.Resources.resources
+C:\Users\edgcu\Desktop\SUT\HCM CAMPUS\2. COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\Galactic_Guardian.Ranking.resources
+C:\Users\edgcu\Desktop\SUT\HCM CAMPUS\2. COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.csproj.GenerateResource.cache
+C:\Users\edgcu\Desktop\SUT\HCM CAMPUS\2. COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgcu\Desktop\SUT\HCM CAMPUS\2. COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.AssemblyInfoInputs.cache
+C:\Users\edgcu\Desktop\SUT\HCM CAMPUS\2. COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.AssemblyInfo.cs
+C:\Users\edgcu\Desktop\SUT\HCM CAMPUS\2. COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.csproj.CoreCompileInputs.cache
+C:\Users\edgcu\Desktop\SUT\HCM CAMPUS\2. COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.dll
+C:\Users\edgcu\Desktop\SUT\HCM CAMPUS\2. COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\refint\GalacticGuardian.dll
+C:\Users\edgcu\Desktop\SUT\HCM CAMPUS\2. COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.pdb
+C:\Users\edgcu\Desktop\SUT\HCM CAMPUS\2. COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\GalacticGuardian.genruntimeconfig.cache
+C:\Users\edgcu\Desktop\SUT\HCM CAMPUS\2. COS20007\Assignments\D & HD\6.5HD - HD Level Custom Program\6.5HD - GalacticGuardian - Sourcecode\GalacticGuardian\obj\Debug\net6.0-windows\ref\GalacticGuardian.dll

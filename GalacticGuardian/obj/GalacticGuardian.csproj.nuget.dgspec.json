@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\edgcu\\Desktop\\SUT\\HCM CAMPUS\\2. COS20007\\Assignments\\D & HD\\6.5HD - HD Level Custom Program\\6.5HD - GalacticGuardian - Sourcecode\\GalacticGuardian\\GalacticGuardian.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\edgcu\\Desktop\\SUT\\HCM CAMPUS\\2. COS20007\\Assignments\\D & HD\\6.5HD - HD Level Custom Program\\6.5HD - GalacticGuardian - Sourcecode\\GalacticGuardian\\GalacticGuardian.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\edgcu\\Desktop\\SUT\\HCM CAMPUS\\2. COS20007\\Assignments\\D & HD\\6.5HD - HD Level Custom Program\\6.5HD - GalacticGuardian - Sourcecode\\GalacticGuardian\\GalacticGuardian.csproj",
+        "projectName": "GalacticGuardian",
+        "projectPath": "C:\\Users\\edgcu\\Desktop\\SUT\\HCM CAMPUS\\2. COS20007\\Assignments\\D & HD\\6.5HD - HD Level Custom Program\\6.5HD - GalacticGuardian - Sourcecode\\GalacticGuardian\\GalacticGuardian.csproj",
+        "packagesPath": "C:\\Users\\edgcu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\edgcu\\Desktop\\SUT\\HCM CAMPUS\\2. COS20007\\Assignments\\D & HD\\6.5HD - HD Level Custom Program\\6.5HD - GalacticGuardian - Sourcecode\\GalacticGuardian\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edgcu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Windows.Extensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
